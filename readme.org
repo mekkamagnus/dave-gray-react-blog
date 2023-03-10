@@ -1,0 +1,7 @@
+* Readme 
+** Overview 
+YouTube: [[https://www.youtube.com/watch?v=RVFAyFWO4go&t=16990s][React Router Project - React JS Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours]]
+React Router v6 Tutorial: [[https://www.youtube.com/watch?v=Ul3y1LXxzdU][Learn React Router v6 In 45 Minutes - YouTube]]
+  The Dave Gray's tutorial is using version 5 of React Router which has a lot of breaking changes. WebDev Simplified has a great tutorial on React Router v6
+
+** npm run dev

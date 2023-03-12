@@ -10,13 +10,17 @@ export default function Nav({ search, setSearch }) {
           type="text"
           placeholder="Search Posts"
           value={search}
-          onChange={(event) => setSearch(e.target.value)}
+          onChange={(event) => setSearch(event.target.value)}
         />
       </form>
       <ul>
         <li>
           <Link to="/">Home</Link>
+        </li>
+        <li>
           <Link to="/post">Post</Link>
+        </li>
+        <li>
           <Link to="/about">About</Link>
         </li>
       </ul>

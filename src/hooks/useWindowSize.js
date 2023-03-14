@@ -19,7 +19,6 @@ export default function useWindowSize() {
 
     // Prevents a memeory leak
     const cleanUp = () => {
-      console.log("runs if a useEffect dependency changes.");
       window.removeEventListener("resize", handleResize);
     };
 
